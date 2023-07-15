@@ -19,8 +19,6 @@
   <br>
   🔬 I'm currently studying for a bachelor's degree in Muhammadiyah Riau University System Information Department
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
-  <br>
   🎓 I graduated from SMAN 3 Mandau
   <br>
   💻 I love writing code, Solving some problem in code, and learn anythings about it
