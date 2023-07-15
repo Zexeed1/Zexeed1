@@ -10,7 +10,7 @@
   <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/yourrandra" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -27,7 +27,7 @@
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Laravel
   <br>
-  💬 Ask me anything about from <a href="https://www.instagram.com/yourrandra" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://wa.me/081371929161" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: andrak.1202@gmail.com">andrak.1202@gmail.com</a>
 </p>
