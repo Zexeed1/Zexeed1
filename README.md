@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andra Surya Kurniawan</h1>
-<h3 align="center">A passionate fullstack web developer from Indonesia</h3>
+<h3 align="center">A passionate system analyst and web developer from indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zexeed1&label=Profile%20views&color=0e75b6&style=flat" alt="zexeed1" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **andrasurya.100@gmail.com**
 
-- ⚡ Fun fact **I don't like noise**
+- ⚡ Fun fact **I am blessed with Full of Innovation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
