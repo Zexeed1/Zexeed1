@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zexeed1" alt="zexeed1" /></a> </p>
 
-- 🌱 I’m currently learning **Server Management, SEO Applicant, & Backlink**
+- 🌱 I’m currently learning **Data Analyst, SEO Applicant, Data Science**
 
 - 💬 Ask me about **laravel, codeigniter, react, node, and native language**
 
