@@ -133,6 +133,26 @@ Here are several highlighted projects that represent my skills:
 
 ---
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zexeed1&theme=flat&no-frame=true&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-achievements.vercel.app/api/badge?username=zexeed1&badge=quickdraw" />
+  <img src="https://github-profile-achievements.vercel.app/api/badge?username=zexeed1&badge=starstruck" />
+  <img src="https://github-profile-achievements.vercel.app/api/badge?username=zexeed1&badge=pullshark" />
+  <img src="https://github-profile-achievements.vercel.app/api/badge?username=zexeed1&badge=galaxybrain" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zexeed1&theme=default" />
+</p>
+
+---
+
+
 ## 🎯 Current Goals
 - Master Data Engineering fundamentals  
 - Publish full Data Analyst project series  
