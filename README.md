@@ -140,13 +140,6 @@ Here are several highlighted projects that represent my skills:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/badge?username=zexeed1&badge=quickdraw" />
-  <img src="https://github-profile-achievements.vercel.app/api/badge?username=zexeed1&badge=starstruck" />
-  <img src="https://github-profile-achievements.vercel.app/api/badge?username=zexeed1&badge=pullshark" />
-  <img src="https://github-profile-achievements.vercel.app/api/badge?username=zexeed1&badge=galaxybrain" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zexeed1&theme=default" />
 </p>
 
