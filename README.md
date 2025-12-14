@@ -134,16 +134,15 @@ Here are several highlighted projects that represent my skills:
 ---
 
 ## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zexeed1&layout=compact" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zexeed1&theme=default" />
 </p>
 
 ---
+
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-Advanced-green" alt="Excel">
+  <img src="https://img.shields.io/badge/Power%20BI-Basic-yellow" alt="Power BI">
+  <img src="https://img.shields.io/badge/SQL-Basic-blue" alt="SQL">
 
 
 ## 🎯 Current Goals
