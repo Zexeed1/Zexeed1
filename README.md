@@ -136,7 +136,7 @@ Here are several highlighted projects that represent my skills:
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zexeed1&theme=flat&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zexeed1&layout=compact" />
 </p>
 
 <p align="center">
